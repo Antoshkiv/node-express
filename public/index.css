@@ -1,0 +1,7 @@
+.nav-wrapper {
+  padding: 0 2rem;
+}
+
+.nav-wrapper ul li:hover {
+  background-color: lightpink;
+}
