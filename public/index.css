@@ -5,3 +5,28 @@
 .nav-wrapper ul li:hover {
   background-color: lightpink;
 }
+
+p.price {
+  font-size: 2rem;
+}
+
+.course {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.course h1 .course-title {
+  margin-bottom: 2rem;
+  background-color: lightseagreen;
+}
+
+.course img .course-img {
+  max-width: 200px;
+  height: auto;
+}
+
+.course p .price .big {
+  font-size: 2rem;
+}
