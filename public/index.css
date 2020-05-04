@@ -30,3 +30,9 @@ p.price {
 .course p .price .big {
   font-size: 2rem;
 }
+
+.card-action {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: baseline;
+}

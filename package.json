@@ -14,9 +14,11 @@
     "@types/express": "^4.17.6",
     "express": "^4.17.1",
     "express-handlebars": "^4.0.3",
+    "mongoose": "^5.9.11",
     "uuid": "^7.0.3"
   },
   "devDependencies": {
+    "handlebars": "^4.7.6",
     "nodemon": "^2.0.3",
     "prettier": "2.0.5"
   }
