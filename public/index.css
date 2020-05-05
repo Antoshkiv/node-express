@@ -6,7 +6,7 @@
   background-color: lightpink;
 }
 
-p.price {
+p .price {
   font-size: 2rem;
 }
 
@@ -27,12 +27,16 @@ p.price {
   height: auto;
 }
 
-.course p .price .big {
-  font-size: 2rem;
+.price-title {
+  font-size: 1rem;
 }
 
 .card-action {
   display: flex;
   justify-content: space-evenly;
   align-items: baseline;
+}
+
+.delete-btn {
+  margin-top: 2rem;
 }
